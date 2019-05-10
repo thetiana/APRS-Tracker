@@ -37,7 +37,7 @@ int sensorValue = 0;
 
 // APRS settings
 #include <LibAPRS.h>
-char APRS_CALLSIGN[] = "LZ1AAO";
+char APRS_CALLSIGN[] = "YOURCALLSIGN";
 const int APRS_SSID = 5;
 char APRS_SYMBOL = '>';
 char comment_flex[]= "APRS Tracker";
